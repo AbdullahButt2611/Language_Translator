@@ -50,7 +50,7 @@ body{
     resize: none;
 }
 
-.controls, li, .icons{
+.controls, li, .icons, .icons i{
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -71,9 +71,19 @@ body{
     color: #9f9f9f;
     font-size: 14px;
     cursor: pointer;
+    justify-content: center;
 
 }
 
+.controls .row.from .icons{
+    border-right: 1px solid #bbb;
+    padding-right: 15px;
+}
+
+.controls .row.to .icons{
+    border-left: 1px solid #bbb;
+    padding-left: 15px;
+}
 .controls .row select{
     border: none;
     outline: none;
@@ -86,4 +96,22 @@ body{
     font-size: 16px;
     cursor: pointer;
 
+}
+
+.container button{
+    width: 100%;
+    padding: 14px;
+    margin-top: 20px;
+    border: none;
+    outline: none;
+    background: #FFC500;
+    cursor: pointer;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 17px;
+    transition: 0.3s;
+}
+
+.container button:hover{
+    background: #eeb800;
 }
