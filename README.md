@@ -16,12 +16,16 @@ The theme for this web app is:
 <br><br>
 
 ## Features
+- The options to be shown for language has been added with JS file and using the JS code.
+- API call has been made for translating the text depending on the selected value of languages.
+
 <br><br>
 
 ## Resources
 The resources used for this procedure as as follows:
 - The symbols from [Font Awesome 5 Icons](https://fontawesome.com/icons)
 - Colors from [Actionable Color Palletes](https://colorpalettes.colorion.co/#22)
+- The API used is [My Memory](https://mymemory.translated.net/doc/spec.php)
 <br><br>
 
 ## Demo
@@ -31,6 +35,7 @@ The resources used for this procedure as as follows:
 <br><br>
 
 ## GUI
+![UI Image](demo.png)
 <br><br>
 
 ## Technology Stack
