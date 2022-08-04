@@ -115,3 +115,19 @@ body{
 .container button:hover{
     background: #eeb800;
 }
+
+@media screen and (max-width: 715px) {
+    .text-input{
+        flex-direction: column;
+    }
+
+    .text-input .to-text{
+        border-radius: 0px;
+        border-top: 1px solid #bbb;
+    }
+
+    .controls{
+        row-gap: 2rem;
+        flex-direction: column;
+    }
+}
