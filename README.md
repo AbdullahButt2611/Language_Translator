@@ -18,6 +18,7 @@ The theme for this web app is:
 ## Features
 - The options to be shown for language has been added with JS file and using the JS code.
 - API call has been made for translating the text depending on the selected value of languages.
+- Text speech has also been introduced in this project.
 
 <br><br>
 
@@ -29,6 +30,7 @@ The resources used for this procedure as as follows:
 <br><br>
 
 ## Demo
+If you want to visit the demo of this website, then you can go to the [Language Translator](https://rebrand.ly/LanguageTranslator_MABCORP) for checking the demo. Or simply click this link.
 <br><br>
 
 ## Link to Video
@@ -43,9 +45,12 @@ Following Technology Stacks are used for creating this app:
 - HTML
 - CSS
 - JavaScript
+- MyMemory API
 <br><br>
 
 ## Advancement
+Somehow, the other language's speech icon is not working properly. Anyone is welcomed to correct that icon functionality.
+> Before Commiting, you have to contact me. the links are given below.
 <br><br>
 
 ## Developer
