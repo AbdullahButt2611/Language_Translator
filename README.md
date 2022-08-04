@@ -49,8 +49,7 @@ Following Technology Stacks are used for creating this app:
 <br><br>
 
 ## Advancement
-Somehow, the other language's speech icon is not working properly. Anyone is welcomed to correct that icon functionality.
-> Before Commiting, you have to contact me. the links are given below.
+> No advancement required
 <br><br>
 
 ## Developer
